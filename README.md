@@ -23,7 +23,7 @@ If you use the code from this repository, please cite the original paper:
 
 ## Preprocessing
 
-For ease of use, the preprocessed datasets for BPIC17 and BPIC19 can be found [here] () and [here] () respectively. These datasets include the cycle time, treatment indicator and the potentially confounding features as discussed in the paper. 
+For ease of use, the preprocessed datasets for BPIC17 and BPIC19 can be found [here]() and [here](https://doi.org/10.5281/zenodo.5083931) respectively. These datasets include the cycle time, treatment indicator and the potentially confounding features as discussed in the paper. 
 
 
 
