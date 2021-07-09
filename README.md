@@ -1,4 +1,4 @@
-This repository contains supplementary material for the article "["Prescriptive Process Monitoring for Cost-Aware Cycle Time Reduction](https://arxiv.org/abs/2105.07111)" by [Zahra Dasht Bozorgi] (https://scholar.google.com/citations?user=XFsTnkgAAAAJ&hl=en), [Irene Teinemaa](https://irhete.github.io/), [Marlon Dumas](http://kodu.ut.ee/~dumas/), [Marcello La Rosa](http://www.marcellolarosa.com/), and [Artem Polyvyanyy](https://scholar.google.com.au/citations?user=CTF5-1EAAAAJ&hl=en).
+This repository contains supplementary material for the article "[Prescriptive Process Monitoring for Cost-Aware Cycle Time Reduction](https://arxiv.org/abs/2105.07111)" by [Zahra Dasht Bozorgi] (https://scholar.google.com/citations?user=XFsTnkgAAAAJ&hl=en), [Irene Teinemaa](https://irhete.github.io/), [Marlon Dumas](http://kodu.ut.ee/~dumas/), [Marcello La Rosa](http://www.marcellolarosa.com/), and [Artem Polyvyanyy](https://scholar.google.com.au/citations?user=CTF5-1EAAAAJ&hl=en).
 
 ## Reference
 If you use the code from this repository, please cite the original paper:
